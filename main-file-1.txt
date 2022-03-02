@@ -1,4 +1,6 @@
 Inital file in main
 
 Revision Log:
-f1mg - change 1
+- change1
+- change2
+- f1mg - change 1
